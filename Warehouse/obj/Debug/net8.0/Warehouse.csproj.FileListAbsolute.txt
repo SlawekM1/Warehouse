@@ -1,0 +1,7 @@
+C:\Users\mince\Desktop\Warehouse\Warehouse\obj\Debug\net8.0\Warehouse.csproj.AssemblyReference.cache
+C:\Users\mince\Desktop\Warehouse\Warehouse\obj\Debug\net8.0\Warehouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mince\Desktop\Warehouse\Warehouse\obj\Debug\net8.0\Warehouse.AssemblyInfoInputs.cache
+C:\Users\mince\Desktop\Warehouse\Warehouse\obj\Debug\net8.0\Warehouse.AssemblyInfo.cs
+C:\Users\mince\Desktop\Warehouse\Warehouse\obj\Debug\net8.0\Warehouse.csproj.CoreCompileInputs.cache
+C:\Users\mince\Desktop\Warehouse\Warehouse\obj\Debug\net8.0\Warehouse.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mince\Desktop\Warehouse\Warehouse\obj\Debug\net8.0\Warehouse.MvcApplicationPartsAssemblyInfo.cache
